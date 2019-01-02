@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Source+Sans+Pro|Great+Vibes');
+
+html {
+  padding: 2em;
+  margin: auto;
+  text-align: center;
+  font-family: Source-Sans-Pro, sans-serif;
+}
+
+h1 {
+  font-family: 'Great Vibes', cursive;
+  margin: auto;
+}
+
+.section-links {
+  font-family: 'Indie Flower', cursive;  
+}
+
+#hero-img {
+  display: block;
+  margin: auto;
+  width: 85%;
+}
+
+.main-div {
+  width: auto;
+}
